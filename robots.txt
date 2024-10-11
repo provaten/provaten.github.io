@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://provaten.github.io/sitemap.html.gz
+Sitemap: https://provaten.github.io/app/sitemap.html.gz
+Sitemap: https://provaten.github.io/assets/sitemap.html.gz
+Sitemap: https://provaten.github.io/css/sitemap.html.gz
+Sitemap: https://provaten.github.io/includes/sitemap.html.gz
+Sitemap: https://provaten.github.io/item/sitemap.html.gz
+Sitemap: https://provaten.github.io/src/sitemap.html.gz
